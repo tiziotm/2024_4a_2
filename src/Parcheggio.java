@@ -1,6 +1,6 @@
 /**
  * 
- * @versione 1
+ * @versione 2
  *
  */
 public class Parcheggio {
